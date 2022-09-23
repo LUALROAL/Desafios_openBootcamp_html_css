@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor{
+    width: 300PX;
+    height: 300PX;
+    background: rgb(91, 175, 175);
+}
+
+.sElemento::before{
+content: "Pasa por encima";
+}
+
+
+.contenedor button:hover{
+    color: white;
+    background-color: green;
+}

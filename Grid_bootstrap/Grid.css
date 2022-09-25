@@ -1,0 +1,20 @@
+
+.col-sm{
+    background-color: rgb(0, 255, 64);
+    border: 1px solid;
+}
+
+.col-md{
+    background-color: firebrick;
+    border: 1px solid;
+}
+
+.col-lg{
+    background-color: indigo;
+    border: 1px solid;
+}
+
+.col-xl{
+    background-color: red;
+    border: 1px solid;
+}
